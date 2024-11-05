@@ -1,8 +1,10 @@
 {
   "author": "Louis Borres <louisrborres@gmail.com>",
   "name": "@lborres/pkg-prac",
+  "license": "ISC",
   "version": "0.0.2",
   "description": "",
+  "homepage": "https://github.com/lborres/pkg-prac",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/types/*",
@@ -11,7 +13,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepublish": "pnpm run build"
   },
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lborres/pkg-prac"
+  },
   "devDependencies": {
     "typescript": "^5.6.3"
   }
