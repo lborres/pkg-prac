@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "removeComments": false,
+    "esModuleInterop": true,
+    "declaration": true,
+
+    "outDir": "dist",
+
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": ["./src/**/*"]
+}
