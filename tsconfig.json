@@ -3,9 +3,7 @@
     "strict": true,
     "removeComments": false,
     "esModuleInterop": true,
-    "declaration": true,
-
-    "outDir": "dist",
+    "target": "ESNext",
 
     "baseUrl": "./",
     "paths": {
