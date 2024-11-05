@@ -2,7 +2,7 @@
   "author": "Louis Borres <louisrborres@gmail.com>",
   "name": "@lborres/pkg-prac",
   "license": "ISC",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "homepage": "https://github.com/lborres/pkg-prac",
   "main": "dist/cjs/index.js",
