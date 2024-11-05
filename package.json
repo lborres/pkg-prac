@@ -1,6 +1,6 @@
 {
   "author": "Louis Borres <louisrborres@gmail.com>",
-  "name": "pkg-prac",
+  "name": "@lborres/pkg-prac",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
